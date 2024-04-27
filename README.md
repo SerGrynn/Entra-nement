@@ -1,2 +1,2 @@
-# Entra-nement
+# Training
 Algorithm_CodeWars
